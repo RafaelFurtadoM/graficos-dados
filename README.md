@@ -25,6 +25,7 @@ graficos/
 | `06_grafico_linhas.py` | `dados_linhas.csv` | Linhas | Evolução das vendas diárias por loja |
 | `07_grafico_pizza.py` | `dados_pizza.csv` | Pizza | Participação no faturamento por canal de venda |
 | `08_grafico_regressao.py` | `dados_regressao.csv` | Regressão linear | Gasto mensal em função da renda (com reta, equação e R²) |
+| `09_grafico_heatmap.py` | `dados_heatmap.csv` | Heatmap (mapa de calor) | Movimento de clientes por dia da semana e horário |
 
 > Observação: `dados_regressao.csv` e `dados_regressao_1.csv` são idênticos.
 > O script `08` usa `dados_regressao.csv`; para gerar a partir do outro,
