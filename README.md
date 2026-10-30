@@ -62,3 +62,8 @@ for s in *.py; do python "$s"; done
 
 Cada script lê o CSV correspondente em `../dados/` e salva o gráfico
 em `../saida/` como arquivo PNG.
+
+## Dashboard
+
+Esses gráficos foram usados no dashboard em Streamlit da atividade 07:
+[dashboard-graficos](https://github.com/RafaelFurtadoM/dashboard-graficos)
